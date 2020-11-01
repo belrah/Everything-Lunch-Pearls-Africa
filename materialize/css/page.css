@@ -1,0 +1,28 @@
+h1,
+h2,
+h3 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    padding: 4em;
+}
+
+#third-col {
+    margin-top: 2em;
+}
+
+.first-col {
+    margin-bottom: 2em;
+}
+
+.logo {
+    font-weight: bolder;
+    font-family: 'Syne Tactile', cursive !important;
+}
+
+.active:hover {
+    background-color: yellow;
+    color: blue;
+}
